@@ -1,18 +1,67 @@
-- 👋 Hi, I’m Rehan Irfan
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning React and Backend frameworks
+<h1 align="center">Hi, I'm Rehan Irfan 👋</h1>
 
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  MERN Stack Developer · Backend Focused · Exploring AI/ML
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=irehan999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
 
-<!---
-irehan999/irehan999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MERN Stack Developer with a strong interest in backend development and AI/ML. Currently expanding my skills in full-stack technologies while actively exploring intelligent systems and machine learning.
+
+---
+
+
+### 💻 Tech Stack
+
+<p align="left">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635bff?logo=stripe&logoColor=white"/>
+
+
+  </p>
+
+---
+
+### 🚀 Projects
+
+- **E-Commerce Platform**  
+  Full MERN-based system with user auth, cart, and Stripe payment integration.  
+  `MERN · JWT · Stripe · Multer · Cloudinary`
+
+- **YouTube Clone**  
+  MERN video platform supporting uploads, playback, and user interaction.  
+  `MERN · JWT · Cloudinary · Role-based Access`
+
+- **Social Media App (Django)**  
+  Built with Django, supporting login, post creation, and image uploads.  
+  `Django · JWT · SQLite · Cloudinary`
+
+---
+
+
+### 📫 Reach Out
+
+- 📧 Email: irehan094@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/rehanirfan](https://linkedin.com/in/rehanirfan)  
+- 🔗 Portfolio (coming soon)
+
+---
+
