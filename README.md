@@ -59,7 +59,7 @@ MERN Stack Developer with a strong interest in backend development and AI/ML. Cu
 
 ### 📫 Reach Out
 
-- 📧 Email: irehan094@gmail.com  
+- 📧 Email: irehan046@gmail.com  
 - 🔗 Portfolio (coming soon)
 
 ---
